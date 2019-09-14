@@ -194,7 +194,7 @@ WalkerLearning:
     buffer_size: 20480
     max_steps: 10e6
     summary_freq: 3000
-    num_layers: 3
+    num_layers: 5
     hidden_units: 512
     reward_signals:
         extrinsic:
